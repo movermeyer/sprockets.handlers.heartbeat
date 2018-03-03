@@ -61,8 +61,8 @@ Available at https://sprocketshandlersheartbeat.readthedocs.org/en/latest/histor
 .. |Coverage| image:: https://img.shields.io/coveralls/sprockets/sprockets.handlers.heartbeat.svg?
    :target: https://coveralls.io/r/sprockets/sprockets.handlers.heartbeat
 
-.. |Downloads| image:: https://pypip.in/d/sprockets.handlers.heartbeat/badge.svg?
+.. |Downloads| image:: https://img.shields.io/pypi/dm/sprockets.handlers.heartbeat.svg
    :target: https://pypi.python.org/pypi/sprockets.handlers.heartbeat
 
-.. |License| image:: https://pypip.in/license/sprockets.handlers.heartbeat/badge.svg?
+.. |License| image:: https://img.shields.io/pypi/l/sprockets.handlers.heartbeat.svg
    :target: https://sprocketshandlersheartbeat.readthedocs.org
